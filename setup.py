@@ -30,6 +30,7 @@ setup(
         "python-crfsuite",
         "sentencepiece",
         "matplotlib",
+        "cached-path",
         "GitPython"
     ],
     classifiers=[
